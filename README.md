@@ -98,8 +98,10 @@ For deeper iBoot analysis in IDA, install [ida-iboot-loader](https://github.com/
 
 ## Related
 
-- [usbliter8](https://github.com/prdgmshift/usbliter8) — A12/A13 BootROM exploit
-- [usbliter8-patchfinder](https://github.com/Leeksov/usbliter8-patchfinder) — arm64e kernelcache patchfinder (20 targets)
+- [usbliter8](https://github.com/prdgmshift/usbliter8) — A12/A13 SecureROM exploit by Paradigm Shift
+- [usbliter8-kernel-patchfinder](https://github.com/Leeksov/usbliter8-kernel-patchfinder) — arm64e kernelcache patchfinder (20 targets)
+- [usbliter8-txm-patchfinder](https://github.com/Leeksov/usbliter8-txm-patchfinder) — TXM patchfinder (code signing bypass, iOS 27)
+- [usbliter8-sptm-patchfinder](https://github.com/Leeksov/usbliter8-sptm-patchfinder) — SPTM patchfinder (CTRR lockdown bypass)
 - [ida-iboot-loader](https://github.com/Orangera1n/ida-iboot-loader) — IDA loader for iBoot/SecureROM
 
 For research purposes only.
